@@ -7,10 +7,15 @@ A simple Pomodoro Timer built using React.js and CSS. This timer allows users to
 **🚀 Features**
 
 ✅ Customizable Timer (1 - 60 min, default = 25 min) using a range slider
+
 ✅ Start, Pause, and Restart buttons
+
 ✅ Break Mode (5 min default)
+
 ✅ Increase Timer by 1 minute
+
 ✅ Red Blinking Effect when time < 10s
+
 ✅ Responsive UI with Clean Styling
 
 **📝 Usage**
